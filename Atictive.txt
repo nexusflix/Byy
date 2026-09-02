@@ -2,7 +2,7 @@ BYPASS- ON
 URL_LOGO:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSGuWmkpQOFykA0NA35aemFcYPP7EJdOeoak93RDpuZQ&s=10
 WHATSAPP- ON
 URL_LOGO:https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA=w480-h960-rw
-FREE FIRE- OFF
+FREE FIRE- ON
 URL_LOGO:https://play-lh.googleusercontent.com/JT88XmsHoGDio7FxONwh382DhuTxuccfMmWFDtRBFjilySzNqWOCxUhqm8IhBKzQSwVrW2HWp_XvSgKFwi3ETA=w480-h960-rw
 ROBLOX- ON
 URL_LOGO:https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE=w480-h960-rw
